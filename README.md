@@ -1,4 +1,4 @@
-# project-1---single-page-design
+# project-1-single-page-design
 TODO:
 * create a bootstrap template
 * with navbar (navigation menu)
